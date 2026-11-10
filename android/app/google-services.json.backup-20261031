@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674640821991",
+    "project_id": "shaqti-66998",
+    "storage_bucket": "shaqti-66998.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674640821991:android:e805c0d57e19f91e0dec42",
+        "android_client_info": {
+          "package_name": "com.example.shaqti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8c3_fzNMqwBkp4xYdNqlPvCT3s-e6RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

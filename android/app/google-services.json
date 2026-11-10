@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "674640821991",
+    "project_id": "shaqti-66998",
+    "storage_bucket": "shaqti-66998.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674640821991:android:e805c0d57e19f91e0dec42",
+        "android_client_info": {
+          "package_name": "com.example.shaqti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674640821991-im5i9feijcf8fgp3u0uk5nh5u4qmd35u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaqti",
+            "certificate_hash": "85afd7bfcef6ab68dbd8855eeee584dc02c88b0f"
+          }
+        },
+        {
+          "client_id": "674640821991-8khep260tvgnk7d0dkvpvfavcou31gf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8c3_fzNMqwBkp4xYdNqlPvCT3s-e6RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674640821991-8khep260tvgnk7d0dkvpvfavcou31gf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674640821991-rp9q1g4ccvccaevvsprd1bun5sig67gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shaqti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
